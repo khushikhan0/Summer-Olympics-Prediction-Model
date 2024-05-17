@@ -35,7 +35,7 @@ Our analysis revealed several insights into the performance of female athletes:
 
 ## References: 
 [1] Minsberg, T. (2021, July 22). When Gender Equality at the Olympics Is Not So Equal. The New York Times. https://www.nytimes.com/2021/07/
-             22/sports/olympics/olympics-athletes-gender.html
+             22/sports/olympics/olympics-athletes-gender.html <br />
 [2] Women in the Olympic Movement. (2023). International Olympic Committee. https://stillmed.olympic.org/media/Document%20Library/
              OlympicOrg/Factsheets-Reference-Documents/Women-in-the-Olympic-Movement/Factsheet-Women-in-the-Olympic-
              Movement.pdf#_ga=2.196242796.1387851327.1545035637-2118090758.1543323217

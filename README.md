@@ -10,9 +10,9 @@ This file can be downloaded with Visual Studio Code or another compatible code e
     git clone https://github.com/khushikhan0/Summer-Olympics-Prediction-Model.git
    ```
 3. Navigate to the project directory
-   ~~~ cd Summer-Olympics-Prediction-Model ~~~
+   ``` cd Summer-Olympics-Prediction-Model ```
 4. Install the required dependencies
-   ~~~ download athlete_events.csv and total_gdp.csv ~~~
+   ``` download athlete_events.csv and total_gdp.csv ```
 
 ## Analysis: 
 The notebook includes various steps such as:

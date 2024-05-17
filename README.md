@@ -1,7 +1,7 @@
 # README for Summer-Olympics-Prediction-Model
 
 ## Overview:  
-This notebook contains analysis of Team USA Results for Female Gymnasts in the Olympic Games. uUpon performing exploratory data analysis, we noticed that female athletes have won less overall medals than male athletes. We decided to delve into the performance of female athletes in the U.S. to determine if there are any systemic or historical reasons that have contributed to female athletes historically slightly “underperforming” in comparison to male athletes. Since the Olympics is an event marked by centuries of history, we predict that history may have shaped female athletes’ performances from the initial inclusion of women in the Olympics up to today. 
+This notebook contains analysis of Team USA Results for Female Gymnasts in the Olympic Games. Upon performing exploratory data analysis, we noticed that female athletes have won less overall medals than male athletes. We decided to delve into the performance of female athletes in the U.S. to determine if there are any systemic or historical reasons that have contributed to female athletes historically slightly “underperforming” in comparison to male athletes. Since the Olympics is an event marked by centuries of history, we predict that history may have shaped female athletes’ performances from the initial inclusion of women in the Olympics up to today. 
 
 ## Usage:
 This file can be downloaded with Visual Studio Code or another compatible code editor. We used data from the athlete_events.csv file linked to this repository. Follow these steps to run this project locally: 

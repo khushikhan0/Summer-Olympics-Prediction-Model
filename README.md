@@ -6,9 +6,9 @@ This notebook contains analysis of Team USA Results for Female Gymnasts in the O
 ## Usage:
 This file can be downloaded with Visual Studio Code or another compatible code editor. We used data from the athlete_events.csv file linked to this repository. Follow these steps to run this project locally: 
 1. Clone the repository
-   '''
+   ```
     git clone https://github.com/khushikhan0/Summer-Olympics-Prediction-Model.git
-   '''
+   ```
 3. Navigate to the project directory
    ~~~ cd Summer-Olympics-Prediction-Model ~~~
 4. Install the required dependencies

@@ -33,6 +33,9 @@ Our analysis revealed several insights into the performance of female athletes:
 2. Despite progress, female athletes still face challenges that can affect their medal counts compared to male athletes.
 3. Predictive models suggest potential improvements in future performances as more support and resources are directed towards female athletes.
 
+## Authors:
+Saanvi Vutukur, Khushi Khan, Maya Sachidanand, and Serena Green
+
 ## References: 
 [1] 120 years of Olympic history: athletes and results. (n.d.). Www.kaggle.com. https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-
              history-athletes-and-results/data <br />
